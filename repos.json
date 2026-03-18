@@ -15,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "13",
         "name": "clang"
       }
     ],
@@ -30,8 +30,8 @@
     },    
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://codeberg.org/tataskystudio/android_kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme"
     },
     "withKernelSU": true,
@@ -43,7 +43,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "13",
         "name": "clang"
       }
     ],
