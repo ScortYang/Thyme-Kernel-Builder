@@ -2,7 +2,7 @@
     {
     "kernelSource": {
       "name": "Lynnrin-13",
-      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme",
+      "repo": "https://github.com/ScortYang/android_kernel_xiaomi_thyme",
       "branch": "thirteen",
       "device": "thyme"
     },
