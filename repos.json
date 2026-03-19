@@ -1,5 +1,5 @@
-[  
-    {
+[
+  {
     "kernelSource": {
       "name": "miku-KernelSU",
       "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
@@ -27,7 +27,9 @@
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
       "CC": "clang"
-    },    
+    }
+  },
+  {
     "kernelSource": {
       "name": "DogDay-KernelSU",
       "repo": "https://codeberg.org/tataskystudio/android_kernel_xiaomi_thyme",
@@ -55,6 +57,6 @@
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
       "CC": "clang"
-    }    
+    }
   }
 ]
